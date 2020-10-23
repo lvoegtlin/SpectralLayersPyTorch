@@ -8,3 +8,13 @@
 ehthumbs.db
 Thumbs.db
 .idea
+.ipynb_checkpoints
+/*.egg-info
+/dist
+/build
+
+#### python
+__pycache__
+
+#### additional
+/pypi_release.sh
